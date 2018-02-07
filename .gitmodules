@@ -1,0 +1,12 @@
+[submodule "cctz"]
+	path = cctz
+	url = git@github.com:google/cctz.git
+[submodule "googletest"]
+	path = googletest
+	url = git@github.com:google/googletest.git
+[submodule "abseil"]
+	path = abseil
+	url = git@github.com:abseil/abseil-cpp.git
+[submodule "benchmark"]
+	path = benchmark
+	url = git@github.com:google/benchmark.git
